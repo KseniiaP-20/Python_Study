@@ -1,2 +1,4 @@
 # Python_Study
-Short Tasks Carried While Studying Python
+
+Short tasks I have carried out while studying Python 
+at Synergy IT Academy. Files are in Russian. 
